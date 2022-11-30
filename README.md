@@ -3,11 +3,11 @@
 Tema: SDG - Decent Work and Economic Growth
 
 Anggota Kelompok:
-Alif Rakasha Pratama Putra (1197050012)
-Harry Akbar Fauzan (1197050047)
-Muhammad Rizkon Fithri Wikarta (1197050090)
-Yunita Minarni (1197050133)
-Rifqi Fadhlur Rahman (1187050089)
+Alif Rakasha Pratama Putra (1197050012)<br>
+Harry Akbar Fauzan (1197050047)<br>
+Muhammad Rizkon Fithri Wikarta (1197050090)<br>
+Yunita Minarni (1197050133)<br>
+Rifqi Fadhlur Rahman (1187050089)<br>
 
 Deskripsi seluruh file:
 - Folder Data Preparation
