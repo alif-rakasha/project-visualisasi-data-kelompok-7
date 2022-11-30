@@ -2,7 +2,7 @@
 
 Tema: SDG - Decent Work and Economic Growth
 
-Anggota Kelompok:
+Anggota Kelompok:<br>
 Alif Rakasha Pratama Putra (1197050012)<br>
 Harry Akbar Fauzan (1197050047)<br>
 Muhammad Rizkon Fithri Wikarta (1197050090)<br>
