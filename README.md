@@ -14,10 +14,10 @@ Deskripsi seluruh file:
 Berisi 3 folder lainnya, yaitu Raw Data (data mentah diperoleh dari web BAPENNAS), Integrated Data (penggabungan data mentah menjadi satu data yang terintegrasi), dan Cleaned Data (sudah dilakukan pembersihan dengan bahasa pemrograman Python)
 
 - Folder Data Update<br>
-Berisi data baru, yang sudah berisi lebih banyak data, tepatnya pada kolom tahun menjadi 2013-2021. (TERBARU)
+Berisi data baru, yang sudah berisi lebih banyak data, tepatnya pada kolom tahun menjadi 2013-2021.
 
-- Project_Visualisasi_Data_Kelompok_7.ipynb<br>
-Merupakan file Google Colab yang membahas, menganalisis, dan meneliti data sesuai dengan tema, yang menggunakan metode CRISP-DM
+- Folder Data Prediction<br>
+Berisi data hasil prediksi pada Tahun 2023, dengan metode Regresi Linear Sederhana dan Berganda.
 
 - Dashboarding_Kelompok_7.twb<br>
 Merupakan file Tableau, berisi beberapa bentuk visualisasi data dari data yang sudah dibersihkan (Cleaned Data). Beberapa visualisasi tersebut mampu menjawab beberapa tujuan pada Business Understanding.
